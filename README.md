@@ -6,6 +6,8 @@
 
 <p align="center"><a href="https://github.com/JJptt1980/SocialDownloader-releases/releases/latest"><b>下載最新版 APK</b></a></p>
 
+<p align="center"><a href="https://ko-fi.com/jjptt1980"><img src="https://img.shields.io/badge/Ko--fi-%E8%AB%8B%E6%88%91%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1-FF5E5B?logo=ko-fi&logoColor=white" alt="Ko-fi 請我喝杯咖啡"></a></p>
+
 一個只做一件事的 Android App：把公開影片存回你的手機。
 
 ## 怎麼用
